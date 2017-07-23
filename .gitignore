@@ -1,0 +1,6 @@
+
+.gitattributes
+*.dll
+bin/Release/Clockware.exe.config
+bin/Release/Clockware.pdb
+Workspace
